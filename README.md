@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Maxime
 - 👀 I’m interested in web app development
-- 🌱 I’m currently learning laravel v8
+- 🌱 I’m currently learning laravel
 - 💞️ I’m looking to collaborate on project
 - 📫 How to reach me maxime.loko5@gmail.com
 
